@@ -1,11 +1,11 @@
-import { Component } from '@angular/core';
-
+import { Component, OnInit } from '@angular/core';
+import quiz_questions from "../../../assets/data/quiz_questions.json"
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
   styleUrls: ['./quiz.component.css']
 })
-export class QuizComponentimplements OnInit {
+export class QuizComponent implements OnInit {
 
   title: string = ''
   questions: any
