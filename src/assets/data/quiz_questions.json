@@ -1,0 +1,87 @@
+{
+  "title":"Quem do Bar do Zelda voce seria ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Tranformar a pessoa em chocolate", "alias":"A"},
+        {"id": 2, "name":"Voltar para Rayane", "alias":"D"},
+        {"id": 3, "name":"Para de mentir", "alias":"E"},
+        {"id": 4, "name":"Nao ser negro", "alias":"B"},
+        {"id": 5, "name":"vibranium para conhecer africanas em wakanda", "alias":"C"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Giovanna inchada", "alias":"E"},
+        {"id": 2, "name":"Laires noiva cadaver ", "alias":"D"},
+        {"id": 3, "name":"Irla maluca ", "alias":"A"},
+        {"id": 4, "name":"Isabele gestacoes", "alias":"C"},
+        {"id": 5, "name":"Aline ilusoes", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro do bdz ?",
+      "options":[
+        {"id": 1, "name":"Se ele mentir para mim", "alias":"E"},
+        {"id": 2, "name":"se ele for negro e eu tiver com meu iphone", "alias":"B"},
+        {"id": 3, "name":"se ele me comer (la ele)", "alias":"A"},
+        {"id": 4, "name":"se ele for da irmandade", "alias":"D"},
+        {"id": 5, "name":"se ele for negro do sexo feminino", "alias":"C"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"bunda de iza", "alias":"C"},
+        {"id": 2, "name":"clonar cartao", "alias":"B"},
+        {"id": 3, "name":"emagrecer", "alias":"A"},
+        {"id": 4, "name":"trocar amigos por pussy", "alias":"D"},
+        {"id": 5, "name":"ganhar de aaron no x1", "alias":"E"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o seu apelido de super ser ?",
+      "options":[
+        {"id": 1, "name":"putifero do futuro", "alias":"A"},
+        {"id": 2, "name":"agrazalhador de croquete", "alias":"D"},
+        {"id": 3, "name":"negao do zap", "alias":"B"},
+        {"id": 4, "name":"marido de isabele", "alias":"C"},
+        {"id": 5, "name":" Super trans", "alias":"C"},
+        {"id": 6, "name":" Giovanna", "alias":"E"}
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "text": "Você seria o gordo do aaron!",
+      "image": "assets/imgs/aaron.jpeg"
+    },
+    "B": {
+      "text": "Você seria o preto do kdu!",
+      "image": "assets/imgs/kdu.jpeg"
+    },
+    "C": {
+      "text": "Voce seria o gaybriel",
+      "image": "assets/imgs/gaybriel.jpeg"
+    },
+    "D": {
+      "text": "Voce seria o gustavo+laires",
+      "image": "assets/imgs/gustavo.jpeg"
+    },
+    "E": {
+      "text": "Voce seria senazyz falso",
+      "image": "assets/imgs/rafael.jpeg"
+    }
+  }
+
+
+
+}
